@@ -1,0 +1,6 @@
+@LoginSoapDemo_HostAddress = http://localhost:5296
+
+GET {{LoginSoapDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
